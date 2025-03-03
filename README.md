@@ -6,7 +6,7 @@
 - [![TopAME | Bullish - Cheerful](https://img.shields.io/badge/TopAME%20|%20Bullish-Cheerful-blue?logo=telegram&style=flat)](https://t.me/xTopAME)
 
 # Hướng Dẫn Cài Đặt Auto Mint NFT ED3 - Farm Points
-- **Chức năng:** Auto Mint NFT ( ID 1 - 4 ) trên ED3 và Upload data nhận Points
+- **Chức năng:** Auto Mint NFT ( ID 1 - 10 ) trên ED3 và Upload data nhận Points
 
 ---
 
